@@ -16,14 +16,17 @@ int factorial(int c) {
 int main(void)
 {
 	setlocale(LC_ALL, "Russian");
-	int x, a1, i;
-	float e, e1;
+	int x;
+	int a1;
+	int i;
+	float e;
+	float e1;
 	printf("¬ведите значение x: ");
 	scanf("%d", &x);
-	a1 = 1;
-	i = 1;
-	e = 1 + x;
-	e1 = 0;
+	a1 = 1; // odin
+	i = 1; // odin
+	e = 1 + x; // odin plus x
+	e1 = 0; // null
 	while (a1 != 0) {
 		i++;
 		e1 = pow(x, i) / factorial(i);
