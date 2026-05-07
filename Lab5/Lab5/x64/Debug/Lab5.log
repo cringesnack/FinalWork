@@ -1,6 +1,5 @@
 ﻿  Lab5.c
-C:\Users\admin\PycharmProjects\PythonProject\c\Lab5\Lab5\Lab5.c(14,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
-C:\Users\admin\PycharmProjects\PythonProject\c\Lab5\Lab5\Lab5.c(25,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\admin\PycharmProjects\PythonProject\c\Lab5\Lab5\Lab5.c(29,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\admin\PycharmProjects\PythonProject\c\Lab5\Lab5\Lab5.c(19,9): warning C4101: a0: неиспользованная локальная переменная
-  Lab5.vcxproj -> C:\Users\admin\PycharmProjects\PythonProject\c\Lab5\x64\Debug\Lab5.exe
+D:\it_in_pa\archive\LR88\FinalWork\FinalWork\Lab5\Lab5\Lab5.c(14,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+D:\it_in_pa\archive\LR88\FinalWork\FinalWork\Lab5\Lab5\Lab5.c(25,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\it_in_pa\archive\LR88\FinalWork\FinalWork\Lab5\Lab5\Lab5.c(29,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab5.vcxproj -> D:\it_in_pa\archive\LR88\FinalWork\FinalWork\Lab5\x64\Debug\Lab5.exe

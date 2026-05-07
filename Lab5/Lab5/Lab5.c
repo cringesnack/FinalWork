@@ -6,17 +6,17 @@
 #include <string.h>
 #define WINDOWS "russian"
 
-int factorial(int charlotte) {
-	float wiltshir = 1;
-	for (int ii = 1; ii != charlotte + 1; ii++) {
-		wiltshir *= ii;
+int factorial(int c) {
+	float wow = 1;
+	for (int ii = 1; ii != c + 1; ii++) {
+		wow *= ii;
 	}
-	return wiltshir;
+	return wow;
 }
 int main(void)
 {
 	setlocale(LC_ALL, "Russian");
-	int x, a0, a1, i;
+	int x, a1, i;
 	float e, e1;
 	printf("¬ведите значение x: ");
 	scanf("%d", &x);
